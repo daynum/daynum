@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
   <h1> Hi there 👋 </h1>
-  <img src="https://media.giphy.com/media/9C1nyePnovqlpEYFMD/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/eSwGh3YK54JKU/giphy.gif" width="100"/>
     <div id="badges">
       <a href="">
       <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
