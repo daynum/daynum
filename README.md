@@ -19,18 +19,18 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=manintel&theme=dark)](https://git.io/streak-stats)  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=daynum&theme=dark)](https://git.io/streak-stats)  
 
 
-![manintel's GitHub stats](https://github-readme-stats.vercel.app/api?username=manintel&show_icons=true&theme=dark&count_private=true&hide=prs,issues,contribs)   
+![manintel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daynum&show_icons=true&theme=dark&count_private=true&hide=prs,issues,contribs)   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manintel&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daynum&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 
 <!--
-**manintel/manintel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**daynum/daynum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
